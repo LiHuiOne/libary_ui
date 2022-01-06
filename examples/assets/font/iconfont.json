@@ -1,0 +1,79 @@
+{
+  "id": "2796036",
+  "name": "knowledge",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "知识库项目",
+  "glyphs": [
+    {
+      "icon_id": "3911840",
+      "name": "1_系统菜单-系统",
+      "font_class": "_xitongcaidan-xitong",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9441410",
+      "name": "系统-菜单管理",
+      "font_class": "xitong-caidanguanli",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "712342",
+      "name": "柱状图",
+      "font_class": "icon-bar-graph",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "22382882",
+      "name": "三维柱状图",
+      "font_class": "sanweizhuzhuangtu",
+      "unicode": "edd1",
+      "unicode_decimal": 60881
+    },
+    {
+      "icon_id": "3722136",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5388028",
+      "name": "地图_定位_o",
+      "font_class": "ditu_dingwei_o",
+      "unicode": "ebbb",
+      "unicode_decimal": 60347
+    },
+    {
+      "icon_id": "5896808",
+      "name": "地图-地标",
+      "font_class": "ditu-dibiao",
+      "unicode": "ec3f",
+      "unicode_decimal": 60479
+    },
+    {
+      "icon_id": "8017510",
+      "name": "echarts_line",
+      "font_class": "echarts_line",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "8017580",
+      "name": "echarts_cross",
+      "font_class": "echarts_cross",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "16852596",
+      "name": "eCharts",
+      "font_class": "eCharts",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

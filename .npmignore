@@ -1,0 +1,9 @@
+## 忽略上传目录
+examples/
+packages/
+public/
+
+## 忽略指定文件上传
+vue.config.js
+babel.config.js
+*.map
